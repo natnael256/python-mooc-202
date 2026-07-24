@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Ignore course test directories in all exercise folders
+**/test/
+
+# Ignore TMC extension workspace and configuration folders
+.tmc/
+**/.tmc/
+**/tmc/
+.tmcproject.yml
+.tmc.json
