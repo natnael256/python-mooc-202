@@ -11,3 +11,6 @@ __pycache__/
 **/tmc/
 .tmcproject.yml
 .tmc.json
+
+# Ignore course configuration
+course_config.toml
