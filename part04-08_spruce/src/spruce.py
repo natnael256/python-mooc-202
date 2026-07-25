@@ -5,11 +5,11 @@ def spruce(height):
 
     width = 1
     char = "*"
-    center = height * 2
+    cnter = height * 2
     print ("a spruce!")
     while height > 0:
 
-        print((char * width).center(center) )
+        print((char * width).center(cnter) )
         width += 2
         height -= 1
     print(char.center(width - 1))
